@@ -1,0 +1,16 @@
+,,,Data,,
+state,Region,VensNeeded,Sum - hospitalizedCurrently,Sum - inIcuCurrently,Sum - onVentilatorCurrently
+CT,NE,0,233,,
+DC,NE,26,197,78,52
+DE,NE,0,93,,
+MA,NE,87,1069,249,162
+MD,NE,321,799,321,
+ME,NE,6,29,10,4
+NE,NE,0,157,,
+NH,NE,0,76,,
+NJ,NE,130,1395,409,279
+NY,NE,157,1734,517,360
+PA,NE,-192,875,,192
+RI,NE,11,141,28,17
+VT,NE,0,11,,
+Total Result,,,6809,1612,1066
